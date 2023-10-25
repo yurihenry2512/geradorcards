@@ -1,0 +1,72 @@
+#posicao{
+	position: absolute;
+	left: 350px;
+	top: 190px;
+	color: white;
+}
+
+#tipo_massiva{
+	position: absolute;
+	left: 500px;
+	top: 270px;
+	color: white;
+}
+
+#departamento{
+	position: absolute;
+	left: 700px;
+	top: 270px;
+	color: white;
+
+}
+
+#escalonamento{
+	position: absolute;
+	left: 960px;
+	top: 195px;
+	color: white;
+
+}
+
+#clientes{
+	position: absolute;
+	left: 390px;
+	top: 300px;
+	color: white;
+}
+
+#data_incidente{
+	position: absolute;
+	left: 830px;
+	top: 270px;
+	color: white;
+}
+
+#cidade{
+	position: absolute;
+	left: 650px;
+	top: 190px;
+	color: white;
+}
+
+body{
+
+	background-image: url("logo_alloha_positivo-1536x536.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#data_normalizacao{
+	position: absolute;
+	left: 945px;
+	top: 270px;
+	color: white;
+}
+
+#acao_de_normalizacao{
+	position: absolute;
+	left: 500px;
+	top: 345px;
+	color: white;
+
+}
